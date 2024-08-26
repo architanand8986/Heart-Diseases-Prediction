@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict the likelihood of heart disease in patients using logistic regression. By analyzing various patient parameters such as age, sex, and chest pain type, the model provides a probability score indicating the risk of heart disease. This tool can be helpful in early detection and treatment planning.
+This project aims to predict the likelihood of heart disease in patients using logistic regression. By analyzing various patient parameters such as age, sex, and chest pain type, the model provides a probability score indicating the risk of heart disease. This tool can be helpful in early detection and treatment planning. The model has achieved an accuracy of 81% in predicting heart disease on the test dataset.
 
 ## Dataset
 
